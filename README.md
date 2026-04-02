@@ -28,9 +28,7 @@ The Finance Dashboard has been completely built and tested. Here is a summary of
 
 If you want to view the React application on your own local device:
 
-1. Open your terminal at `C:\Users\Shashwat Tripathi\.gemini\antigravity\scratch\finance-dashboard`
+1. Open your terminal
 2. Run `npm install`
 3. Run `npm run dev`
 4. Navigate to http://localhost:5173
-
-> **NOTE:** The application uses mock data seeded directly into local storage on the first load.
